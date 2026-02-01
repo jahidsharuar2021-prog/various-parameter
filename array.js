@@ -1,4 +1,6 @@
-
+/* sum of array
+*.sum of array element
+ */
 
 function sumofNumber(number){
     console.log(number);
